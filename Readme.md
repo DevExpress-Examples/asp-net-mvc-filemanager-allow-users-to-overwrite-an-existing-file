@@ -1,3 +1,11 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [HomeController.cs](./CS/S37186_MVC/Controllers/HomeController.cs)
+* [Global.asax](./CS/S37186_MVC/Global.asax)
+* [_FileManagerPartial.cshtml](./CS/S37186_MVC/Views/Home/_FileManagerPartial.cshtml)
+* [Index.cshtml](./CS/S37186_MVC/Views/Home/Index.cshtml)
+<!-- default file list end -->
 # FileManager - How to show a confirmation dialog to overwrite an existing file
 
 

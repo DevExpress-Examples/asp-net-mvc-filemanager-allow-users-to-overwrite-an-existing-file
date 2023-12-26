@@ -4,6 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.Mvc;
 using DevExpress.Web.Mvc;
+using S37186_MVC.Helpers;
 
 namespace Q522482_2.Controllers
 {
@@ -23,7 +24,7 @@ namespace Q522482_2.Controllers
 
         public FileStreamResult FileManagerPartialDownload()
         {
-            return FileManagerExtension.DownloadFiles("FileManager", HomeControllerFileManagerSettings.Model);
+            return FileManagerExtension.DownloadFiles(FMSettingsHelper.CreateFileManagerDownloadSettings(), HomeControllerFileManagerSettings.Model);
         }
     }
     public class HomeControllerFileManagerSettings

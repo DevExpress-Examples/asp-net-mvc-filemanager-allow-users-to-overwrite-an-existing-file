@@ -3,16 +3,15 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Globalization;
-using System.Data.Entity;
 using System.Web.Mvc;
 using System.Web.Security;
 
 namespace S37186_MVC.Models {
-	    public class UsersContext : DbContext {
+	    public class UsersContext : System.Data.Entity.DbContext {
         public UsersContext()
             : base("DefaultConnection") {
         }
-        public DbSet<UserProfile> UserProfiles { get; set; }
+        public System.Data.Entity.DbSet<UserProfile> UserProfiles { get; set; }
     }
 	[Table("UserProfile")]
     public class UserProfile {

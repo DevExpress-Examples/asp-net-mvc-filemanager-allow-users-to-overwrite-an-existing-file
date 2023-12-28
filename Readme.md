@@ -14,10 +14,10 @@ The handler of the server-side [FileUploading](https://docs.devexpress.com/AspNe
 
 ## Files to Review
 
-* [HomeController.cs](./CS/S37186_MVC/Controllers/HomeController.cs)
-* [Global.asax](./CS/S37186_MVC/Global.asax)
-* [_FileManagerPartial.cshtml](./CS/S37186_MVC/Views/Home/_FileManagerPartial.cshtml)
-* [Index.cshtml](./CS/S37186_MVC/Views/Home/Index.cshtml)
+* [HomeController.cs](./CS/FileManager_Example/Controllers/HomeController.cs)
+* [Global.asax](./CS/FileManager_Example/Global.asax)
+* [_FileManagerPartial.cshtml](./CS/FileManager_Example/Views/Home/_FileManagerPartial.cshtml)
+* [Index.cshtml](./CS/FileManager_Example/Views/Home/Index.cshtml)
 
 ## Documentation
 

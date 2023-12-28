@@ -4,9 +4,6 @@
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
 # FileManager for ASP.NET MVC - How to allow users to overwrite an existing file
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4880)**
-<!-- run online end -->
 The File Manager control prevents users from uploading files that already exist on the server. This example demonstrates how to show a conformation dialog that allows users to overwrite an existing file or cancel the upload operation.
 
 ![Show a Confirmation Dialog](result.png)

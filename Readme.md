@@ -12,9 +12,6 @@
 * [Index.cshtml](./CS/S37186_MVC/Views/Home/Index.cshtml)
 <!-- default file list end -->
 # FileManager - How to show a confirmation dialog to overwrite an existing file
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/128552457/)**
-<!-- run online end -->
 
 
 <p>This example illustrates how to show a conformation message to overwrite an existing file in the ASPxFileManager. </p><br />

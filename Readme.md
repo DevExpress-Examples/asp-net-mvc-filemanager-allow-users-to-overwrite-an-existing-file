@@ -24,7 +24,7 @@ The handler of the server-side [FileUploading](https://docs.devexpress.com/AspNe
 
 - [File Manager](https://docs.devexpress.com/AspNet/9032/components/file-management/file-manager)
 <!-- feedback -->
-## Does This Example Address Your Development Requirements/Objectives?
+## Does this example address your development requirements/objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-mvc-filemanager-allow-users-to-overwrite-an-existing-file&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-mvc-filemanager-allow-users-to-overwrite-an-existing-file&~~~was_helpful=no)
 
